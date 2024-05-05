@@ -5,5 +5,7 @@ As part of an academic assignment, I gained practical proficiency in network emu
 
 
 (1) custom_topology.py code file creates a custom network topology consisting of hosts, switches, and links, defining the structure of the virtual network environment that can be instantiated and manipulated using Mininet.
+
 (2) script_cwnd_plot.py does the analysis and visualization of congestion window behavior over time for multiple senders, providing insights into network congestion dynamics.
+
 (3) script_pcaps.py analyzes and visualizes the congestion window behavior from TCP packets captured in a pcap file.
