@@ -2,7 +2,7 @@ As part of an academic assignment, I gained practical proficiency in network emu
 This hands-on project allowed me to understand the principles of Software Defined Networking (SDN) by configuring virtual networks with Open vSwitch (OVS) and an SDN controller, POX. Key tasks included:
 
  - Setting up a custom network topology using Mininet, replicating real-world scenarios.
- - 
+   
  -Configuring network bottlenecks and generating TCP traffic between hosts using tools like "tc" and iperf.
 
  -Utilizing Wireshark/tcpdump to capture and analyze packet traffic within the virtual network.
